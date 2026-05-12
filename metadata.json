@@ -1,0 +1,6 @@
+{
+  "name": "Agile Sprint Dashboard",
+  "description": "Una aplicación integral para gestionar tableros Kanban, historias de usuario, sprints y diagramas de trabajo pendiente (burndown charts) para proyectos Agile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
